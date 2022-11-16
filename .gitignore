@@ -154,3 +154,4 @@ cython_debug/
 2d deeplabv3 concept/data/
 2d unet concept/data/
 2d unet full data/data/
+/2d architectures concept/data/
