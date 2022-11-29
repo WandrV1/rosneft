@@ -155,3 +155,8 @@ cython_debug/
 2d unet concept/data/
 2d unet full data/data/
 /2d architectures concept/data/
+/2d architectures concept/deeplabv3_plus_logs/
+/2d architectures concept/lightning_logs/
+/discharged cube concept/data/
+/discharged cube concept/deeplabv3_plus_logs/
+/f3 netherlands/data/
