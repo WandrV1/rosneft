@@ -160,3 +160,6 @@ cython_debug/
 /discharged cube concept/data/
 /discharged cube concept/deeplabv3_plus_logs/
 /f3 netherlands/data/
+/2d architectures concept/architectures/
+
+*.npz
