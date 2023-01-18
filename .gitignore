@@ -163,3 +163,11 @@ cython_debug/
 /2d architectures concept/architectures/
 
 *.npz
+/additional cube/data/
+/additional cube/deeplabv3_master_model/
+/additional cube/deeplabv3_plus_basic/
+/additional cube/deeplabv3_plus_retrain/
+/master model train/data/
+/master model train/lightning_logs/
+/prototype/
+/discharged cube concept/lightning_logs/
