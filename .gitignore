@@ -171,3 +171,4 @@ cython_debug/
 /master model train/lightning_logs/
 /prototype/
 /discharged cube concept/lightning_logs/
+/master model train/data_png/
