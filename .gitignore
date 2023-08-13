@@ -18,7 +18,7 @@ lib/
 lib64/
 parts/
 sdist/
-var/
+Epoch 2/6 attribute concept/data/prepared/train/variance/
 wheels/
 share/python-wheels/
 *.egg-info/
@@ -175,3 +175,29 @@ cython_debug/
 /additional cube model selection/data/
 /additional cube model selection/encoders_logs/
 /additional cube model selection/lightning_logs/
+/Epoch 1/2d architectures concept/architectures/
+/Epoch 1/2d architectures concept/data/
+/Epoch 1/2d deeplabv3 concept/data/
+/Epoch 1/2d unet concept/data/
+/Epoch 1/2d unet full data/data/
+/Epoch 1/discharged cube concept/data/
+/Epoch 1/discharged cube concept/deeplabv3_plus_logs/
+/Epoch 1/discharged cube concept/lightning_logs/
+/Epoch 1/f3 netherlands/data/
+/Epoch 2/additional cube/data/
+/Epoch 2/additional cube model selection/data/
+/Epoch 2/additional cube model selection/encoders_logs/
+/Epoch 2/additional cube model selection/lightning_logs/
+/Epoch 2/npz dataset master model train/data/
+/Epoch 2/npz dataset master model train/data_png/
+/Epoch 2/npz dataset master model train/lightning_logs/
+/Epoch 2/npz dataset master model train/master_for_retrain_logs/
+/Epoch 2/retrain efficiency test/data/
+/Epoch 2/retrain efficiency test/pretrained_model/
+/Epoch 2/retrain efficiency test/retrain_logs/
+/Epoch 2/additional cube/deeplabv3_master_model/
+/Epoch 2/additional cube/deeplabv3_plus_basic/
+/Epoch 2/additional cube/deeplabv3_plus_retrain/
+/Epoch 2/additional cube/version_3/
+/Epoch 2/6 attribute concept/data/
+/Epoch 2/6 attribute concept/lightning_logs/
